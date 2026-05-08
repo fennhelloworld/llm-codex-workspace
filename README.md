@@ -33,3 +33,12 @@ python3 -m pytest -q
 1. 明确战略任务到工程落地的映射。
 2. 保证代码可运行、可测试、可复盘。
 3. 支持后续替换为生产级数据源、执行网关和控制器。
+
+
+## 5次版本持续优化
+
+```bash
+./scripts/iterate_v5.sh
+cat docs/ITERATION_PLAN.md
+cat docs/ITERATION_REPORT.md
+```
